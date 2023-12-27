@@ -48,7 +48,7 @@ Remember: press -1 to return back to the previous options,
 - Minimax scaler
   - Uses formula [(x - min(x))/(max(x) - min(x))]
 
-- Standard scalre
+- Standard scaler
   - Uses formula [(x - mean(x))/std(x)]
     
 ### Splitting the Data
