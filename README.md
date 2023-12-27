@@ -22,7 +22,7 @@ and press -2 to quite the program. Always remember to download the preprocessed 
   - Range (minimum, maximum)
 
 - Dataset Statistics
-  - Visialise histograms (if dtype == numeric)
+  - Visualise histograms (if dtype == numeric)
   - Column data types
 
 ### Null Value Handling
