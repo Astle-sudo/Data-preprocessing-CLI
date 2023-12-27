@@ -8,7 +8,7 @@ Download the main.py file and place it in a folder alongside your desired CSV fi
 ## Preprocessing options 
 After opening the file, the interface will provide certain preprocessing options. 
 Remember: press -1 to return back to the previous options,
-          press -2 to quite the program. Always remember to download the preprocessed data before qiuting.
+          press -2 to quite the program. Always remember to download the preprocessed data before quiting.
 
 ### Dataset Statistics
 - Column statistics (enter column name)
