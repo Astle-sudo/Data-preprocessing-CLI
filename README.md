@@ -6,8 +6,9 @@ Download the main.py file and place it in a folder alongside your desired CSV fi
 > <code> python3 main.py filename.csv </code>
 
 ## Preprocessing options 
-After opening the file, the interface will provide certain preprocessing options. Remember: press -1 to return back to the previous options,
-and press -2 to quite the program. Always remember to download the preprocessed data before qiuting.
+After opening the file, the interface will provide certain preprocessing options. 
+Remember: press -1 to return back to the previous options,
+          press -2 to quite the program. Always remember to download the preprocessed data before qiuting.
 
 ### Dataset Statistics
 - Column statistics (enter column name)
